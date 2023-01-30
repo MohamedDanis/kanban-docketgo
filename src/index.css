@@ -1,0 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+.counter{
+  --value:51;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
